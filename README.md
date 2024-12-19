@@ -1,3 +1,5 @@
+Aplicația IT Solutions este o platformă de comerț online dedicată vânzării de produse IT. Aceasta permite utilizatorilor să vizualizeze produsele, să le adauge în coșul de cumpărături și să efectueze achiziții. Platforma are două tipuri de utilizatori: Admin și Client, fiecare cu permisiuni și funcționalități diferite.
+
 Instrucțiuni de pornire a proiectului
 1.	Se clonează local repository-ul de pe GitHub:
 git clone https://github.com/malexandra13/proiect_afaceriElectronice
